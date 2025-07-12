@@ -1,0 +1,6 @@
+/* This resets the default style of your website because browsers have different default CSS and if you don't do this, you might not like your website */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
